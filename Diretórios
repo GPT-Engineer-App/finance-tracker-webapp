@@ -1,0 +1,15 @@
+/projeto-financeiro
+    /css
+        - styles.css
+    /js
+        - scripts.js
+    /php
+        - db.php
+        - login.php
+        - register.php
+        - add_transaction.php
+    - index.html
+    - main.html
+    - expenses.html
+    - savings.html
+    - investments.html
